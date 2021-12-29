@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    color: black;
+    background-color: white;
+    display: block;
+    text-align: center;
+}
+#calculator {
+    float: left;
+}
+p {
+    text-align: center;
+    font-family: cursive;
+    font-size: 20px;
+}
+h2 {
+    color: black;
+    background-color: white;
+    display: block;
+    text-align: center;
+}
+#IPavel {
+    display: inline-block;
+}
+#Pavel {
+    border: solid 1px black;
+}
+#IRoma {
+    display: inline-block;
+}
+#Roma {
+    border: solid 1px black;
+}
